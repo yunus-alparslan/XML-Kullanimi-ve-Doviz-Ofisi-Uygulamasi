@@ -1,0 +1,23 @@
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\bin\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.exe.config
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\bin\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.exe
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\bin\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.pdb
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML_Kullanımı_ve_Döviz_Ofisi_Uygulamasıı.Properties.Resources.resources
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.exe
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.pdb
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML_Kullanımı_ve_Döviz_Ofisi_Uygulamasıı.Form1.resources
+C:\Users\PC\source\repos\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML_Kullanımı_ve_Döviz_Ofisi_Uygulamasıı.Form2.resources
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\bin\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.exe.config
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\bin\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.exe
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\bin\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.pdb
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML_Kullanımı_ve_Döviz_Ofisi_Uygulamasıı.Form1.resources
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML_Kullanımı_ve_Döviz_Ofisi_Uygulamasıı.Form2.resources
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML_Kullanımı_ve_Döviz_Ofisi_Uygulamasıı.Properties.Resources.resources
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.exe
+C:\Users\PC\Downloads\XML Kullanımı ve Döviz Ofisi Uygulamasıı\XML Kullanımı ve Döviz Ofisi Uygulamasıı\obj\Debug\XML Kullanımı ve Döviz Ofisi Uygulamasıı.pdb
